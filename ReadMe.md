@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou programador Full-Stack<br>Gosto de desafios<br>
+<em><strong>I am Full-Stack Developer</strong></em> <br>I like challenges<br>
 
 
 # 💻 Tech Stack:
