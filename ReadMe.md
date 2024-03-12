@@ -1,5 +1,5 @@
 # 💫 About Me:
-<em><strong>I am Full-Stack Developer</strong></em> <br>I like challenges<br>
+<h1><em>I am Full-Stack Developer</em></h1> <br>I like challenges<br>
 
 
 # 💻 Tech Stack:
