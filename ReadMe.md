@@ -15,4 +15,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=samuelsumbane&icon=0&color=9)](https://visitcount.itsvg.in)
 
+## Badges and Achievements
+
+![Android Developer Badge](https://github.com/user-attachments/assets/4906b0f3-83cf-4a7a-bf3d-ead7614875ec)
+
+- **Course:** Introduction to Programming in Kotlin
+- **Issued by:** Google Android Developers
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
