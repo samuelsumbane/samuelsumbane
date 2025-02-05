@@ -18,8 +18,15 @@
 ## Badges and Achievements
 
 ![Android Developer Badge](https://github.com/user-attachments/assets/4906b0f3-83cf-4a7a-bf3d-ead7614875ec)
-
 - **Course:** Introduction to Programming in Kotlin
+
+<img src="https://developers.google.com/static/profile/badges/playlists/android/jetpack-compose-for-android-developers-2/badge.svg" width="140" height="140">**Course:** 1</img><img src="https://developers.google.com/static/profile/badges/playlists/android/jetpack-compose-for-android-developers-3/badge.svg" width="140" height="140">**Course:** 2</img><img src="https://developers.google.com/static/profile/badges/playlists/android/jetpack-compose-for-android-developers-4/badge.svg" width="140" height="140">**Course:** 3</img>
+
+- **Legend**
+- 1 - Layouts, themes and animation
+- 2 - Architecture and state
+- 3 - Safety, testing and performance
+  
 - **Issued by:** Google Android Developers
 
 
