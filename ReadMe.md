@@ -1,9 +1,35 @@
-# 💫 About Me:
-<h1><em>Full-Stack Developer</em></h1> <br>I like challenges<br>
+# 👋 Samuel Eugénio Sumbane  
 
+**Full-stack Developer** specialized in **Kotlin**. I work with **Android, Ktor, and Compose (Multiplatform & Web)**.  
+I prefer simple, efficient, and scalable solutions.  
 
-# 💻 Tech Stack:
+---
+
+## 🚀 Technologies  
+- Kotlin · Jetpack Compose · Ktor  
+- Compose Multiplatform · Compose HTML  
+- Android · Linux · Git  
+
+---
+
+## 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+## 🌟 Featured Projects  
+
+- 📱 [**Oremos Católico Moçambique**](https://play.google.com/store/apps/details?id=com.samuelsumbane.oremos)  
+Android app with 5,000+ downloads on the Play Store.  
+
+- 🛒 **Mercelia** (in development)  
+Sales system for small shops and groceries, with stock control and configurable packages.  
+
+- 💻 [**ComposeHtmlUI**](https://github.com/samuelsumbane/ComposeHtmlUI)  
+Library for building web interfaces with Compose for Web.  
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samuelsumbane&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samuelsumbane&theme=onedark&hide_border=true)<br/>
