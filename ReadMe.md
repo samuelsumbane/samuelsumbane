@@ -6,14 +6,16 @@ I prefer simple, efficient, and scalable solutions.
 ---
 
 ## 🚀 Technologies  
-- Kotlin · Jetpack Compose · Ktor  
-- Compose Multiplatform · Compose HTML  
-- Android · Linux · Git  
 
----
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)  
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)  
+![Ktor](https://img.shields.io/badge/Ktor-282C34?style=flat&logo=ktor&logoColor=white)  
+![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-009688?style=flat&logo=kotlin&logoColor=white)  
+![Compose HTML](https://img.shields.io/badge/Compose%20HTML-FF5722?style=flat&logo=html5&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
-## 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
