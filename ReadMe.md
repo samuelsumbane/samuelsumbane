@@ -1,4 +1,4 @@
-# 👋 Samuel Eugénio Sumbane  
+# Samuel Eugénio Sumbane  
 
 **Full-stack Developer** specialized in **Kotlin**. I work with **Android, Ktor, and Compose (Multiplatform & Web)**.  
 I prefer simple, efficient, and scalable solutions.  
