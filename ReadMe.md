@@ -21,13 +21,13 @@ I prefer simple, efficient, and scalable solutions.
 
 ## 🌟 Featured Projects  
 
-- 📱 [**Oremos Católico Moçambique**](https://play.google.com/store/apps/details?id=com.samuelsumbane.oremos](https://play.google.com/store/apps/details?id=com.samuel.oremoschanganapt&pcampaignid=web_share))  
+- 📱 [**Oremos Católico Moçambique**](https://play.google.com/store/apps/details?id=com.samuel.oremoschanganapt&pcampaignid=web_share)  
 Android app with 5,000+ downloads on the Play Store.  
 
 - 🛒 **Mercelia** (in development)  
 Sales system for small shops and groceries, with stock control and configurable packages.  
 
-- 💻 [**ComposeHtmlUI**](https://github.com/samuelsumbane/ComposeHtmlUI](https://github.com/samuelsumbane/compose-html-ui))  
+- 💻 [**ComposeHtmlUI**](https://github.com/samuelsumbane/compose-html-ui)  
 Library for building web interfaces with Compose for Web.  
 
 ---
